@@ -1,0 +1,17 @@
+D:\Visual Studio\Projects\OOPP\OOPP\bin\Debug\net8.0-windows\OOPP.exe
+D:\Visual Studio\Projects\OOPP\OOPP\bin\Debug\net8.0-windows\OOPP.deps.json
+D:\Visual Studio\Projects\OOPP\OOPP\bin\Debug\net8.0-windows\OOPP.runtimeconfig.json
+D:\Visual Studio\Projects\OOPP\OOPP\bin\Debug\net8.0-windows\OOPP.dll
+D:\Visual Studio\Projects\OOPP\OOPP\bin\Debug\net8.0-windows\OOPP.pdb
+D:\Visual Studio\Projects\OOPP\OOPP\obj\Debug\net8.0-windows\OOPP.Form1.resources
+D:\Visual Studio\Projects\OOPP\OOPP\obj\Debug\net8.0-windows\OOPP.Properties.Resources.resources
+D:\Visual Studio\Projects\OOPP\OOPP\obj\Debug\net8.0-windows\OOPP.csproj.GenerateResource.cache
+D:\Visual Studio\Projects\OOPP\OOPP\obj\Debug\net8.0-windows\OOPP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Projects\OOPP\OOPP\obj\Debug\net8.0-windows\OOPP.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\OOPP\OOPP\obj\Debug\net8.0-windows\OOPP.AssemblyInfo.cs
+D:\Visual Studio\Projects\OOPP\OOPP\obj\Debug\net8.0-windows\OOPP.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\OOPP\OOPP\obj\Debug\net8.0-windows\OOPP.dll
+D:\Visual Studio\Projects\OOPP\OOPP\obj\Debug\net8.0-windows\refint\OOPP.dll
+D:\Visual Studio\Projects\OOPP\OOPP\obj\Debug\net8.0-windows\OOPP.pdb
+D:\Visual Studio\Projects\OOPP\OOPP\obj\Debug\net8.0-windows\OOPP.genruntimeconfig.cache
+D:\Visual Studio\Projects\OOPP\OOPP\obj\Debug\net8.0-windows\ref\OOPP.dll
