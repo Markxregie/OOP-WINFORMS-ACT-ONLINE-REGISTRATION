@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EmergencyContact/1.0.0": {
+        "runtime": {
+          "EmergencyContact.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmergencyContact/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
