@@ -4,14 +4,16 @@ C:\Users\chifu\OneDrive\Desktop\C#\Authentication\bin\Debug\net8.0-windows\Authe
 C:\Users\chifu\OneDrive\Desktop\C#\Authentication\bin\Debug\net8.0-windows\Authentication.dll
 C:\Users\chifu\OneDrive\Desktop\C#\Authentication\bin\Debug\net8.0-windows\Authentication.pdb
 C:\Users\chifu\OneDrive\Desktop\C#\Authentication\obj\Debug\net8.0-windows\Authentication.Form1.resources
+C:\Users\chifu\OneDrive\Desktop\C#\Authentication\obj\Debug\net8.0-windows\Authentication.Properties.Resources.resources
 C:\Users\chifu\OneDrive\Desktop\C#\Authentication\obj\Debug\net8.0-windows\Authentication.csproj.GenerateResource.cache
 C:\Users\chifu\OneDrive\Desktop\C#\Authentication\obj\Debug\net8.0-windows\Authentication.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\chifu\OneDrive\Desktop\C#\Authentication\obj\Debug\net8.0-windows\Authentication.AssemblyInfoInputs.cache
 C:\Users\chifu\OneDrive\Desktop\C#\Authentication\obj\Debug\net8.0-windows\Authentication.AssemblyInfo.cs
 C:\Users\chifu\OneDrive\Desktop\C#\Authentication\obj\Debug\net8.0-windows\Authentication.csproj.CoreCompileInputs.cache
+C:\Users\chifu\OneDrive\Desktop\C#\Authentication\obj\Debug\net8.0-windows\Authentication.sourcelink.json
 C:\Users\chifu\OneDrive\Desktop\C#\Authentication\obj\Debug\net8.0-windows\Authentication.dll
 C:\Users\chifu\OneDrive\Desktop\C#\Authentication\obj\Debug\net8.0-windows\refint\Authentication.dll
 C:\Users\chifu\OneDrive\Desktop\C#\Authentication\obj\Debug\net8.0-windows\Authentication.pdb
 C:\Users\chifu\OneDrive\Desktop\C#\Authentication\obj\Debug\net8.0-windows\Authentication.genruntimeconfig.cache
 C:\Users\chifu\OneDrive\Desktop\C#\Authentication\obj\Debug\net8.0-windows\ref\Authentication.dll
-C:\Users\chifu\OneDrive\Desktop\C#\Authentication\obj\Debug\net8.0-windows\Authentication.Properties.Resources.resources
+C:\Users\chifu\OneDrive\Desktop\C#\Authentication\obj\Debug\net8.0-windows\Authentication.Form2.resources

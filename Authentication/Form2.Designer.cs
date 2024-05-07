@@ -1,6 +1,6 @@
 ﻿namespace Authentication
 {
-    partial class Form1
+    partial class Form2
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form2));
             panel1 = new Panel();
             label2 = new Label();
             panel3 = new Panel();
@@ -39,6 +39,8 @@
             textBox1 = new TextBox();
             button1 = new Button();
             panel2 = new Panel();
+            panel7 = new Panel();
+            textBox3 = new TextBox();
             panel5 = new Panel();
             label5 = new Label();
             label4 = new Label();
@@ -47,6 +49,7 @@
             panel6.SuspendLayout();
             panel4.SuspendLayout();
             panel2.SuspendLayout();
+            panel7.SuspendLayout();
             SuspendLayout();
             // 
             // panel1
@@ -87,11 +90,11 @@
             label1.AutoSize = true;
             label1.Font = new Font("Georgia", 17F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.ForeColor = Color.White;
-            label1.Location = new Point(67, 191);
+            label1.Location = new Point(62, 191);
             label1.Name = "label1";
-            label1.Size = new Size(305, 34);
+            label1.Size = new Size(319, 34);
             label1.TabIndex = 0;
-            label1.Text = "Login your Account";
+            label1.Text = "Create your Account";
             label1.Click += label1_Click;
             // 
             // panel6
@@ -143,17 +146,18 @@
             button1.BackColor = Color.FromArgb(39, 55, 77);
             button1.Font = new Font("Georgia", 11F);
             button1.ForeColor = SystemColors.Window;
-            button1.Location = new Point(147, 392);
+            button1.Location = new Point(147, 466);
             button1.Name = "button1";
             button1.Size = new Size(151, 42);
             button1.TabIndex = 4;
-            button1.Text = "Log In";
+            button1.Text = "Sign Up";
             button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
             // 
             // panel2
             // 
             panel2.BackColor = Color.FromArgb(82, 109, 130);
+            panel2.Controls.Add(panel7);
             panel2.Controls.Add(panel5);
             panel2.Controls.Add(label5);
             panel2.Controls.Add(label4);
@@ -170,6 +174,29 @@
             panel2.TabIndex = 1;
             panel2.Paint += panel2_Paint;
             // 
+            // panel7
+            // 
+            panel7.BackColor = Color.FromArgb(157, 178, 191);
+            panel7.Controls.Add(textBox3);
+            panel7.Location = new Point(19, 387);
+            panel7.Name = "panel7";
+            panel7.Size = new Size(408, 43);
+            panel7.TabIndex = 4;
+            panel7.Paint += panel7_Paint;
+            // 
+            // textBox3
+            // 
+            textBox3.BackColor = Color.FromArgb(157, 178, 191);
+            textBox3.BorderStyle = BorderStyle.None;
+            textBox3.Font = new Font("Segoe UI", 13F);
+            textBox3.ForeColor = Color.Gainsboro;
+            textBox3.Location = new Point(13, 4);
+            textBox3.Name = "textBox3";
+            textBox3.Size = new Size(392, 29);
+            textBox3.TabIndex = 2;
+            textBox3.Text = "Re-enter Password";
+            textBox3.TextChanged += textBox3_TextChanged;
+            // 
             // panel5
             // 
             panel5.BackgroundImage = (Image)resources.GetObject("panel5.BackgroundImage");
@@ -182,17 +209,17 @@
             // 
             label5.AutoSize = true;
             label5.ForeColor = Color.White;
-            label5.Location = new Point(278, 462);
+            label5.Location = new Point(281, 536);
             label5.Name = "label5";
-            label5.Size = new Size(63, 20);
+            label5.Size = new Size(53, 20);
             label5.TabIndex = 7;
-            label5.Text = "Sign Up";
+            label5.Text = "Log In";
             label5.Click += label5_Click;
             // 
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(341, 468);
+            label4.Location = new Point(344, 542);
             label4.Name = "label4";
             label4.Size = new Size(0, 20);
             label4.TabIndex = 6;
@@ -202,14 +229,14 @@
             label3.AutoSize = true;
             label3.Font = new Font("Segoe UI", 9F);
             label3.ForeColor = Color.White;
-            label3.Location = new Point(94, 462);
+            label3.Location = new Point(105, 536);
             label3.Name = "label3";
-            label3.Size = new Size(187, 20);
+            label3.Size = new Size(179, 20);
             label3.TabIndex = 5;
-            label3.Text = "Don't have an account yet?";
+            label3.Text = "Have an account already?";
             label3.Click += label3_Click;
             // 
-            // Form1
+            // Form2
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -218,8 +245,9 @@
             Controls.Add(panel3);
             Controls.Add(panel2);
             Controls.Add(panel1);
-            Name = "Form1";
-            Text = "Form1";
+            Name = "Form2";
+            Text = "Form2";
+            Load += Form2_Load;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             panel6.ResumeLayout(false);
@@ -228,6 +256,8 @@
             panel4.PerformLayout();
             panel2.ResumeLayout(false);
             panel2.PerformLayout();
+            panel7.ResumeLayout(false);
+            panel7.PerformLayout();
             ResumeLayout(false);
         }
 
@@ -247,5 +277,7 @@
         private Label label4;
         private Label label5;
         private Panel panel5;
+        private Panel panel7;
+        private TextBox textBox3;
     }
 }
