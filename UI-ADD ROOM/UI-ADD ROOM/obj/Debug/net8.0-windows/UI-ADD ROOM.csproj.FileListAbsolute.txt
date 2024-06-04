@@ -1,0 +1,17 @@
+C:\Users\Yesh\Desktop\UI-ADD ROOM\UI-ADD ROOM\bin\Debug\net8.0-windows\UI-ADD ROOM.exe
+C:\Users\Yesh\Desktop\UI-ADD ROOM\UI-ADD ROOM\bin\Debug\net8.0-windows\UI-ADD ROOM.deps.json
+C:\Users\Yesh\Desktop\UI-ADD ROOM\UI-ADD ROOM\bin\Debug\net8.0-windows\UI-ADD ROOM.runtimeconfig.json
+C:\Users\Yesh\Desktop\UI-ADD ROOM\UI-ADD ROOM\bin\Debug\net8.0-windows\UI-ADD ROOM.dll
+C:\Users\Yesh\Desktop\UI-ADD ROOM\UI-ADD ROOM\bin\Debug\net8.0-windows\UI-ADD ROOM.pdb
+C:\Users\Yesh\Desktop\UI-ADD ROOM\UI-ADD ROOM\obj\Debug\net8.0-windows\UI_ADD_ROOM.Form1.resources
+C:\Users\Yesh\Desktop\UI-ADD ROOM\UI-ADD ROOM\obj\Debug\net8.0-windows\UI_ADD_ROOM.Properties.Resources.resources
+C:\Users\Yesh\Desktop\UI-ADD ROOM\UI-ADD ROOM\obj\Debug\net8.0-windows\UI-ADD ROOM.csproj.GenerateResource.cache
+C:\Users\Yesh\Desktop\UI-ADD ROOM\UI-ADD ROOM\obj\Debug\net8.0-windows\UI-ADD ROOM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yesh\Desktop\UI-ADD ROOM\UI-ADD ROOM\obj\Debug\net8.0-windows\UI-ADD ROOM.AssemblyInfoInputs.cache
+C:\Users\Yesh\Desktop\UI-ADD ROOM\UI-ADD ROOM\obj\Debug\net8.0-windows\UI-ADD ROOM.AssemblyInfo.cs
+C:\Users\Yesh\Desktop\UI-ADD ROOM\UI-ADD ROOM\obj\Debug\net8.0-windows\UI-ADD ROOM.csproj.CoreCompileInputs.cache
+C:\Users\Yesh\Desktop\UI-ADD ROOM\UI-ADD ROOM\obj\Debug\net8.0-windows\UI-ADD ROOM.dll
+C:\Users\Yesh\Desktop\UI-ADD ROOM\UI-ADD ROOM\obj\Debug\net8.0-windows\refint\UI-ADD ROOM.dll
+C:\Users\Yesh\Desktop\UI-ADD ROOM\UI-ADD ROOM\obj\Debug\net8.0-windows\UI-ADD ROOM.pdb
+C:\Users\Yesh\Desktop\UI-ADD ROOM\UI-ADD ROOM\obj\Debug\net8.0-windows\UI-ADD ROOM.genruntimeconfig.cache
+C:\Users\Yesh\Desktop\UI-ADD ROOM\UI-ADD ROOM\obj\Debug\net8.0-windows\ref\UI-ADD ROOM.dll
