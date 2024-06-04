@@ -1,0 +1,17 @@
+C:\Users\Yesh\Desktop\UI-EDIT ROOM\UI-EDIT ROOM\bin\Debug\net8.0-windows\UI-EDIT ROOM.exe
+C:\Users\Yesh\Desktop\UI-EDIT ROOM\UI-EDIT ROOM\bin\Debug\net8.0-windows\UI-EDIT ROOM.deps.json
+C:\Users\Yesh\Desktop\UI-EDIT ROOM\UI-EDIT ROOM\bin\Debug\net8.0-windows\UI-EDIT ROOM.runtimeconfig.json
+C:\Users\Yesh\Desktop\UI-EDIT ROOM\UI-EDIT ROOM\bin\Debug\net8.0-windows\UI-EDIT ROOM.dll
+C:\Users\Yesh\Desktop\UI-EDIT ROOM\UI-EDIT ROOM\bin\Debug\net8.0-windows\UI-EDIT ROOM.pdb
+C:\Users\Yesh\Desktop\UI-EDIT ROOM\UI-EDIT ROOM\obj\Debug\net8.0-windows\UI_EDIT_ROOM.Form1.resources
+C:\Users\Yesh\Desktop\UI-EDIT ROOM\UI-EDIT ROOM\obj\Debug\net8.0-windows\UI_EDIT_ROOM.Properties.Resources.resources
+C:\Users\Yesh\Desktop\UI-EDIT ROOM\UI-EDIT ROOM\obj\Debug\net8.0-windows\UI-EDIT ROOM.csproj.GenerateResource.cache
+C:\Users\Yesh\Desktop\UI-EDIT ROOM\UI-EDIT ROOM\obj\Debug\net8.0-windows\UI-EDIT ROOM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yesh\Desktop\UI-EDIT ROOM\UI-EDIT ROOM\obj\Debug\net8.0-windows\UI-EDIT ROOM.AssemblyInfoInputs.cache
+C:\Users\Yesh\Desktop\UI-EDIT ROOM\UI-EDIT ROOM\obj\Debug\net8.0-windows\UI-EDIT ROOM.AssemblyInfo.cs
+C:\Users\Yesh\Desktop\UI-EDIT ROOM\UI-EDIT ROOM\obj\Debug\net8.0-windows\UI-EDIT ROOM.csproj.CoreCompileInputs.cache
+C:\Users\Yesh\Desktop\UI-EDIT ROOM\UI-EDIT ROOM\obj\Debug\net8.0-windows\UI-EDIT ROOM.dll
+C:\Users\Yesh\Desktop\UI-EDIT ROOM\UI-EDIT ROOM\obj\Debug\net8.0-windows\refint\UI-EDIT ROOM.dll
+C:\Users\Yesh\Desktop\UI-EDIT ROOM\UI-EDIT ROOM\obj\Debug\net8.0-windows\UI-EDIT ROOM.pdb
+C:\Users\Yesh\Desktop\UI-EDIT ROOM\UI-EDIT ROOM\obj\Debug\net8.0-windows\UI-EDIT ROOM.genruntimeconfig.cache
+C:\Users\Yesh\Desktop\UI-EDIT ROOM\UI-EDIT ROOM\obj\Debug\net8.0-windows\ref\UI-EDIT ROOM.dll
