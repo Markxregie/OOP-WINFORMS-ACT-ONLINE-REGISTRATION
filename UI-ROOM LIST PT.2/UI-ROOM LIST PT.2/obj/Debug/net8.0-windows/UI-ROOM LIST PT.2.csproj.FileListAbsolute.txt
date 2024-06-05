@@ -1,0 +1,17 @@
+C:\Users\Yesh\Desktop\UI-ROOM LIST PT.2\UI-ROOM LIST PT.2\bin\Debug\net8.0-windows\UI-ROOM LIST PT.2.exe
+C:\Users\Yesh\Desktop\UI-ROOM LIST PT.2\UI-ROOM LIST PT.2\bin\Debug\net8.0-windows\UI-ROOM LIST PT.2.deps.json
+C:\Users\Yesh\Desktop\UI-ROOM LIST PT.2\UI-ROOM LIST PT.2\bin\Debug\net8.0-windows\UI-ROOM LIST PT.2.runtimeconfig.json
+C:\Users\Yesh\Desktop\UI-ROOM LIST PT.2\UI-ROOM LIST PT.2\bin\Debug\net8.0-windows\UI-ROOM LIST PT.2.dll
+C:\Users\Yesh\Desktop\UI-ROOM LIST PT.2\UI-ROOM LIST PT.2\bin\Debug\net8.0-windows\UI-ROOM LIST PT.2.pdb
+C:\Users\Yesh\Desktop\UI-ROOM LIST PT.2\UI-ROOM LIST PT.2\obj\Debug\net8.0-windows\UI_ROOM_LIST_PT._2.Form1.resources
+C:\Users\Yesh\Desktop\UI-ROOM LIST PT.2\UI-ROOM LIST PT.2\obj\Debug\net8.0-windows\UI_ROOM_LIST_PT._2.Properties.Resources.resources
+C:\Users\Yesh\Desktop\UI-ROOM LIST PT.2\UI-ROOM LIST PT.2\obj\Debug\net8.0-windows\UI-ROOM LIST PT.2.csproj.GenerateResource.cache
+C:\Users\Yesh\Desktop\UI-ROOM LIST PT.2\UI-ROOM LIST PT.2\obj\Debug\net8.0-windows\UI-ROOM LIST PT.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yesh\Desktop\UI-ROOM LIST PT.2\UI-ROOM LIST PT.2\obj\Debug\net8.0-windows\UI-ROOM LIST PT.2.AssemblyInfoInputs.cache
+C:\Users\Yesh\Desktop\UI-ROOM LIST PT.2\UI-ROOM LIST PT.2\obj\Debug\net8.0-windows\UI-ROOM LIST PT.2.AssemblyInfo.cs
+C:\Users\Yesh\Desktop\UI-ROOM LIST PT.2\UI-ROOM LIST PT.2\obj\Debug\net8.0-windows\UI-ROOM LIST PT.2.csproj.CoreCompileInputs.cache
+C:\Users\Yesh\Desktop\UI-ROOM LIST PT.2\UI-ROOM LIST PT.2\obj\Debug\net8.0-windows\UI-ROOM LIST PT.2.dll
+C:\Users\Yesh\Desktop\UI-ROOM LIST PT.2\UI-ROOM LIST PT.2\obj\Debug\net8.0-windows\refint\UI-ROOM LIST PT.2.dll
+C:\Users\Yesh\Desktop\UI-ROOM LIST PT.2\UI-ROOM LIST PT.2\obj\Debug\net8.0-windows\UI-ROOM LIST PT.2.pdb
+C:\Users\Yesh\Desktop\UI-ROOM LIST PT.2\UI-ROOM LIST PT.2\obj\Debug\net8.0-windows\UI-ROOM LIST PT.2.genruntimeconfig.cache
+C:\Users\Yesh\Desktop\UI-ROOM LIST PT.2\UI-ROOM LIST PT.2\obj\Debug\net8.0-windows\ref\UI-ROOM LIST PT.2.dll
