@@ -1,0 +1,16 @@
+C:\Users\Yesh\Desktop\custom\custom\bin\Debug\net8.0-windows\custom.exe
+C:\Users\Yesh\Desktop\custom\custom\bin\Debug\net8.0-windows\custom.deps.json
+C:\Users\Yesh\Desktop\custom\custom\bin\Debug\net8.0-windows\custom.runtimeconfig.json
+C:\Users\Yesh\Desktop\custom\custom\bin\Debug\net8.0-windows\custom.dll
+C:\Users\Yesh\Desktop\custom\custom\bin\Debug\net8.0-windows\custom.pdb
+C:\Users\Yesh\Desktop\custom\custom\obj\Debug\net8.0-windows\custom.Form1.resources
+C:\Users\Yesh\Desktop\custom\custom\obj\Debug\net8.0-windows\custom.csproj.GenerateResource.cache
+C:\Users\Yesh\Desktop\custom\custom\obj\Debug\net8.0-windows\custom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yesh\Desktop\custom\custom\obj\Debug\net8.0-windows\custom.AssemblyInfoInputs.cache
+C:\Users\Yesh\Desktop\custom\custom\obj\Debug\net8.0-windows\custom.AssemblyInfo.cs
+C:\Users\Yesh\Desktop\custom\custom\obj\Debug\net8.0-windows\custom.csproj.CoreCompileInputs.cache
+C:\Users\Yesh\Desktop\custom\custom\obj\Debug\net8.0-windows\custom.dll
+C:\Users\Yesh\Desktop\custom\custom\obj\Debug\net8.0-windows\refint\custom.dll
+C:\Users\Yesh\Desktop\custom\custom\obj\Debug\net8.0-windows\custom.pdb
+C:\Users\Yesh\Desktop\custom\custom\obj\Debug\net8.0-windows\custom.genruntimeconfig.cache
+C:\Users\Yesh\Desktop\custom\custom\obj\Debug\net8.0-windows\ref\custom.dll
