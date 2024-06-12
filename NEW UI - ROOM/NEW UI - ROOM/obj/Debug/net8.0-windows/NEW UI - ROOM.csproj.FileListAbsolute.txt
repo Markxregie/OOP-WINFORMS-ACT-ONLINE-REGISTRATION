@@ -1,0 +1,23 @@
+C:\Users\Yesh\Desktop\NEW UI - ROOM\NEW UI - ROOM\obj\Debug\net8.0-windows\NEW_UI___ROOM.CustomComboBox.resources
+C:\Users\Yesh\Desktop\NEW UI - ROOM\NEW UI - ROOM\obj\Debug\net8.0-windows\NEW_UI___ROOM.Resources.resources
+C:\Users\Yesh\Desktop\NEW UI - ROOM\NEW UI - ROOM\obj\Debug\net8.0-windows\NEW UI - ROOM.csproj.GenerateResource.cache
+C:\Users\Yesh\Desktop\NEW UI - ROOM\NEW UI - ROOM\obj\Debug\net8.0-windows\NEW UI - ROOM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yesh\Desktop\NEW UI - ROOM\NEW UI - ROOM\obj\Debug\net8.0-windows\NEW UI - ROOM.AssemblyInfoInputs.cache
+C:\Users\Yesh\Desktop\NEW UI - ROOM\NEW UI - ROOM\obj\Debug\net8.0-windows\NEW UI - ROOM.AssemblyInfo.cs
+C:\Users\Yesh\Desktop\NEW UI - ROOM\NEW UI - ROOM\obj\Debug\net8.0-windows\NEW UI - ROOM.csproj.CoreCompileInputs.cache
+C:\Users\Yesh\Desktop\NEW UI - ROOM\NEW UI - ROOM\bin\Debug\net8.0-windows\NEW UI - ROOM.exe
+C:\Users\Yesh\Desktop\NEW UI - ROOM\NEW UI - ROOM\bin\Debug\net8.0-windows\NEW UI - ROOM.deps.json
+C:\Users\Yesh\Desktop\NEW UI - ROOM\NEW UI - ROOM\bin\Debug\net8.0-windows\NEW UI - ROOM.runtimeconfig.json
+C:\Users\Yesh\Desktop\NEW UI - ROOM\NEW UI - ROOM\bin\Debug\net8.0-windows\NEW UI - ROOM.dll
+C:\Users\Yesh\Desktop\NEW UI - ROOM\NEW UI - ROOM\bin\Debug\net8.0-windows\NEW UI - ROOM.pdb
+C:\Users\Yesh\Desktop\NEW UI - ROOM\NEW UI - ROOM\obj\Debug\net8.0-windows\NEW_UI___ROOM.TextBox.resources
+C:\Users\Yesh\Desktop\NEW UI - ROOM\NEW UI - ROOM\obj\Debug\net8.0-windows\NEW UI - ROOM.dll
+C:\Users\Yesh\Desktop\NEW UI - ROOM\NEW UI - ROOM\obj\Debug\net8.0-windows\refint\NEW UI - ROOM.dll
+C:\Users\Yesh\Desktop\NEW UI - ROOM\NEW UI - ROOM\obj\Debug\net8.0-windows\NEW UI - ROOM.pdb
+C:\Users\Yesh\Desktop\NEW UI - ROOM\NEW UI - ROOM\obj\Debug\net8.0-windows\NEW UI - ROOM.genruntimeconfig.cache
+C:\Users\Yesh\Desktop\NEW UI - ROOM\NEW UI - ROOM\obj\Debug\net8.0-windows\ref\NEW UI - ROOM.dll
+C:\Users\Yesh\Desktop\NEW UI - ROOM\NEW UI - ROOM\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\Yesh\Desktop\NEW UI - ROOM\NEW UI - ROOM\obj\Debug\net8.0-windows\NEW UI - ROOM.csproj.AssemblyReference.cache
+C:\Users\Yesh\Desktop\NEW UI - ROOM\NEW UI - ROOM\obj\Debug\net8.0-windows\NEW UI -.C2364C88.Up2Date
+C:\Users\Yesh\Desktop\NEW UI - ROOM\NEW UI - ROOM\obj\Debug\net8.0-windows\NEW_UI___ROOM.UIROOM.resources
+C:\Users\Yesh\Desktop\NEW UI - ROOM\NEW UI - ROOM\obj\Debug\net8.0-windows\NEW_UI___ROOM.ADD_ROOM_PAGE.resources
